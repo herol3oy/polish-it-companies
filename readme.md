@@ -1,115 +1,62 @@
 search queries:
+
 site:recruitee.com
 
 https://11bitstudios.com/jobs/
+
 https://1pt.com/careers/
+
 https://4code.io/join-us/
-https://www.mighty-koi.com/careers/
+
+https://mighty-koi.com/careers/
+
 https://careers.4irelabs.com/vacancies/
+
 https://careers.abb/global/en/search-results/
-https://www.acaisoft.com/careers
+
+https://acaisoft.com/careers
+
 https://adchitects.co/careers
+
 https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site?Location_Country=131d5ac7e3ee4d7b962bdc96e498e412
-https://addepto.com/career/ | https://addepto.recruitee.com/
+
+https://addepto.com/career/
+
+https://addepto.recruitee.com/
+
 https://careers.tellent.com/open-positions
+
 https://apply.workable.com/admirals/
+
 https://careers.mitgo.com/vacancies/?geo[]=warsaw-poland
 
-18. Data Web Admin
-    https://datawebadmin.com
-    bh@datawebadmin.com
+https://affirm.com/careers#openings
 
-19. Affirm
-    https://affirm.com
-    klaudyna.bajkowska@affirm.com
+https://aiby.com/careers/
 
-20. Afina AI
-    https://afina.ai
-    info@afina.ai
+https://careers.airhelp.com/?location_id=%5B24276%5D
 
-21. AI Boost
-    https://aiboost.tech
-    founder@aiboost.tech
+https://airslate.com/careers
 
-22. Aiby
-    https://aiby.com
-    ob@aiby.com
+https://akra.net/kariera/
 
-23. AirHelp
-    https://airhelp.com
-    michal.sabat@airhelp.com
+https://akvelon.com/careers/
 
-24. airSlate
-    https://airslate.com
-    staszak.justyna@airslate.com
+https://akveo.com/careers
 
-25. Aiva
-    https://aiva.com.pl
-    kyrchevskiy@aiva.com.pl
+https://www.allstarsit.com/careers/jobs?job-location-categories=poland#open-positions
 
-26. Akra
-    https://akra.net
-    praca@akra.net
+https://www.alter-solutions.com/job-openings-alter-solutions
 
-27. Akvelon
-    https://akvelon.com
-    vladimir.proskurin@akvelon.com
+https://www.altoros.com/about/careers#polandTab
 
-28. Akveo
-    https://akveo.com
-    n.mihailova@akveo.com
+https://www.anegis.com/go-for-more#jobs
 
-29. Antidotum
-    https://antidotum.pl
-    antidotum@antidotum.pl
+https://people.andersenlab.com/vacancies
 
-30. All Stars IT
-    https://allstarsit.com
-    aleksandra.zych@allstarsit.com
+https://apollogic.com/career/
 
-31. Alter Solutions
-    https://alter-solutions.com
-    awasserman@alter-solutions.com
-
-32. Altoros
-    https://altoros.com
-    a.vinahradava@altoros.com
-
-33. Alt Soft Studio
-    https://altsoftstudio.com
-    k_suchocki@altsoftstudio.com
-
-34. Amaryllis Pay
-    https://amaryllispay.com
-    vadims@amaryllispay.com
-
-35. Analytium
-    https://analytium.co.uk
-    nicola.nevlev@analytium.co.uk
-
-36. Anegis
-    https://anegis.com
-    adlugosz@anegis.com
-
-37. Andersen Lab
-    https://andersenlab.com
-    g.kostkowska@andersenlab.com
-
-38. Aorion
-    https://aorion.aero
-    info@aorion.aero
-
-39. Apelsoft
-    https://apelsoft.pl
-    kseniya.pihlblad@apelsoft.eu
-
-40. Apollogic
-    https://apollogic.com
-    katarzyna.jesionek@apollogic.com
-
-41. Appodeal
-    https://appodeal.com
-    katarzyna.raniszewska@appodeal.com
+https://appodeal.com/career/#positions
 
 42. Appotype
     https://appotype.eu
