@@ -96,124 +96,40 @@ https://box.eightfold.ai/careers?location=Poland%20Remote&pid=584137924277&domai
 
 https://www.getbraavo.com/careers/
 
-86. Brad Consulting
-    https://bradconsulting.pl
-    biuro@bradconsulting.pl
+https://brains-and-beards.notion.site/Job-offers-at-Brains-Beards-1b21951978bd4a11b9b03b5fbf0021c1
 
-87. Brains and Beards
-    https://brainsandbeards.com
-    harbour@brainsandbeards.com
+https://cadence.wd1.myworkdayjobs.com/External_Careers?Location_Country=131d5ac7e3ee4d7b962bdc96e498e412
 
-88. Bratte
-    https://bratte.com
-    hr@bratte.com
+https://www.calamari.io/career
 
-89. Brimit
-    https://brimit.com
-    r.sheima@brimit.com
+https://www.zeiss.com/corporate/int/careers/job-openings-and-applications.html?jsl=28001001
 
-90. BCC Europe
-    https://bcceurope.com
-    dariusz.madej@bcceurope.com
+https://jobs.lever.co/capital?location=Warsaw%2C%20Mazowieckie%2C%20Poland
 
-91. BST Group
-    https://bstgroup.pl
-    biuro@bstgroup.pl
+https://www.cdprojektred.com/en/jobs?studio=poland#engineering
 
-92. Ptero
-    https://t.me/ptero12
+https://careers.checkpoint.com/?q=&module=cpcareers&a=search&fa%5B%5D=country_ss%3APoland&sort=
 
-93. ByVoice
-    https://byvoice.pl
-    info@byvoice.pl
 
-94. Cadence
-    https://cadence.com
-    agniza@cadence.com
+https://jobs.ciklum.com/jobs/?country=poland&location=&category=&working_type=Office,Remote,Hybrid
 
-95. Calamari
-    https://calamari.io
-    kamil@calamari.io
+https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B215429%5D&21178_format=6020&listFilterMode=1
 
-96. Zeiss
-    https://zeiss.com
-    pawel.skwarek@zeiss.com
+https://civitta.com/career/?career-country=poland
 
-97. Capital.com
-    https://capital.com
-    piotr.mazur@capital.com
+https://www.cleverdevsoftware.com/careers
 
-98. Carpathia Global
-    https://carpathia-global.com
-    j.shumak@carpathia-global.com
 
-99. CD Projekt Red
-    https://cdprojektred.com
-    jobs@cdprojektred.com
+https://synder.com/careers/
 
-100. Check Point
-    https://checkpoint.com
-    HR_Poland@CheckPoint.com
+https://codeinspiration.pro/careers
 
-101. Chronospace
-     https://chronospace.pl
-     marta.rogowska@chronospace.pl
 
-102. Ciklum
-     https://ciklum.com
-     hot@ciklum.com
+https://www.cogniteq.com/careers-at-cogniteq
 
-103. Cisco
-     https://cisco.com
-     mwoznicz@cisco.com
+https://careers.cognizant.com/emea-en/jobs/?keyword=&location=Poland&lat=&lng=&cname=Poland&ccode=PL&origin=global
 
-104. Civitta
-     https://civitta.com
-     info.pl@civitta.com
-
-105. Clever Dev Software
-     https://cleverdevsoftware.com
-     a.mitina@cleverdevsoftware.com
-
-106. Clinic Hunter
-     https://clinichunter.com
-     mh@clinichunter.com
-
-107. Skirpichenok
-     https://skirpichenok.com
-     skirpichenok@gmail.com
-
-108. Synder
-     https://synder.com
-     larisa.kudravenkova@synder.com
-
-109. Stimulsoft
-     https://stimulsoft.com
-     info@stimulsoft.com
-
-110. Code Inspiration
-     https://codeinspiration.pro
-     y.koroleva@codeinspiration.pro
-
-111. Codex Soft
-     https://codex-soft.com
-     karolina.akulenko@codex-soft.com
-
-112. Arrow Today
-     https://arrowtoday.com
-     EMILIA@ARROWTODAY.COM
-
-113. Cogniteq
-     https://cogniteq.com
-     job@cogniteq.com
-
-114. Cognizant
-     https://cognizant.com
-     maciej.klimczak@cognizant.com
-
-115. Coherent Solutions
-     https://coherentsolutions.com
-     AGPLPBH@coherentsolutions.com
+https://www.coherentsolutions.com/careers
 
 116. Coinchange
      https://coinchange.io
