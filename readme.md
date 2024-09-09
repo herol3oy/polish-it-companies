@@ -1,7 +1,3 @@
-search queries:
-
-site:recruitee.com
-
 https://11bitstudios.com/jobs/
 
 https://1pt.com/careers/
@@ -58,181 +54,47 @@ https://apollogic.com/career/
 
 https://appodeal.com/career/#positions
 
-42. Appotype
-    https://appotype.eu
-    careers@appotype.eu
+https://apptimia.com/career/
 
-43. Appraise
-    https://getappraise.com
-    contact@getappraise.com
+https://aras.com/en/company/careers
 
-44. Apptimia
-    https://apptimia.com
+https://arcadiagroup.pl/
 
-45. Apptio
-    https://careers.apptio.com
-    mmarasek@apptio.com
+https://careers.arla.com/search/?createNewAlert=false&q=&optionsFacetsDD_country=PL
 
-46. A1QA
-    https://a1qa.com
-    o.meshcheryakova@a1qa.com
+https://career.asbis.com/vacancies/?country=Poland
 
-47. Aras
-    https://aras.com
-    pfilipczak@aras.com
+https://asperbrothers.com/join-us/
 
-48. Arcadia Group
-    https://arcadiagroup.pl
-    hello@arcadiagroup.pl
+https://atomicon.pro/en/career
 
-49. Archibaldi Studio
-    https://archibaldistudio.com
-    job@archibaldistudio.com
+https://atos.net/advancing-what-matters/en/join-us?country=PL
 
-50. Arla Foods
-    https://arlafoods.com
-    TA_PL@arlafoods.com
+https://eviden.com/careers/?country=PL
 
-51. Artis Media
-    https://artis-media.com.pl
-    info@artis-media.com.pl
+https://auroracreation.pl/kariera/
 
-52. Artocons
-    https://artocons.com
-    aleksey.kukovich@artocons.com
+https://b2bnetwork.traffit.com/career/
 
-53. Arkvit
-    https://arkvit.com
-    arkvit@gmail.com
+https://www.backbase.com/careers/jobs?office=krakow&department=all
 
-54. ASBIS Poland
-    https://asbis.pl
-    mc@asbispoland.com
+https://jobs.zendesk.com/us/en/search-results?qcountry=Poland
 
-55. Asper Brothers
-    https://asperbrothers.com
-    hello@asperbrothers.com
+https://talent.bayer.com/careers?query=Front%20End&location=poland&pid=562949961289073&job%20type=professional&domain=bayer.com&sort_by=relevance
 
-56. ABBA Business
-    https://abbabusiness.org
-    abba@abbabusiness.org
+https://www.bec.dk/poland/
 
-57. Atomic Hronica
-    https://atomichronica.com
-    dmalyshko@atomichronica.com
+https://behighload.com/career
 
-58. Atomicon
-    https://atomicon.pro
-    info@atomicon.pro
+https://beqom.bamboohr.com/careers
 
-59. Atos
-    https://atos.net
-    marta.kicinska@atos.net
+https://billwerk.recruitee.com/
 
-60. Aurora Creation
-    https://auroracreation.pl
-    job@auroracreation.com
+https://bolt.eu/en/careers/positions/?location=Poland|Warsaw%2C%20Poland|Szczecin%2C%20Poland
 
-61. AWTG
-    https://awtg.co.uk
-    ian.vernon@awtg.co.uk
-    account.pl@awtg.co.uk
+https://box.eightfold.ai/careers?location=Poland%20Remote&pid=584137924277&domain=box.com&sort_by=relevance&triggerGoButton=false
 
-62. Axiopea Consulting
-    https://axiopea-consulting.com
-    dmitry.ryzhevich@axiopea-consulting.com
-
-63. Azati
-    https://azati.ai
-    praca@azati.com
-
-64. B2B Network
-    https://b2bnetwork.pl
-    monika.sek@b2bnetwork.pl
-
-65. Backbase
-    https://backbase.com
-    annaw@backbase.com
-
-66. Zendesk
-    https://zendesk.com
-    ZendeskPolandMobility@zendesk.com
-
-67. Bayer
-    https://career.bayer.com.pl
-    lukasz.olejniczak@bayer.com
-
-68. Bądźtu
-    https://badztu.pl
-    kontakt@bądźtu.pl
-
-69. BEC
-    https://bec.dk
-    becpolandpeopleandculture@bec.dk
-
-70. Be Highload
-    https://behighload.com
-    hello@behighload.com
-
-71. Belka Technologies
-    https://belkatechnologies.com
-    julia_drozdza@belkatechnologies.com
-
-72. BelVG
-    https://belvg.com
-    a.simonchik@belvg.com
-
-73. Bertek
-    https://bertek.pl
-    adolka@bertek.pl
-
-74. Beqom
-    https://beqom.com
-    recruitment@beqom.com
-
-75. BG Apps
-    https://bgapps.pl
-    hr@bgapps.pl
-
-76. Billwerk
-    https://billwerk.io
-    ivan@billwerk.com
-
-77. Billennium
-    https://billennium.com
-    kamil.mikolajczyk@billennium.com
-
-78. Biviar
-    https://biviar.com
-    artyom.vaskanian@biviar.com
-
-79. We Expert
-    https://weexpert.io
-    serhii.pronin@weexpert.io
-
-80. Blatt
-    https://blatt.ltd
-    info@blatt.ltd
-
-81. Bolt
-    https://bolt.eu
-    michal.telejko@bolt.eu
-
-82. Box
-    https://careers.box.com
-    poland-careers@box.com
-
-83. BPMC
-    https://bpmc.pl
-    oleg@bpmc.pl
-
-84. BPower2
-    https://bpower2.com
-    karolina.piatek@bpower2.com
-
-85. Braavo
-    https://getbraavo.com
-    olga@getbraavo.com
+https://www.getbraavo.com/careers/
 
 86. Brad Consulting
     https://bradconsulting.pl
@@ -1247,3 +1109,8 @@ https://appodeal.com/career/#positions
 
 Source: [https://gov.pl/web/poland-businessharbour-en/itspecialist](https://gov.pl/web/poland-businessharbour-en/itspecialist)
 
+
+
+site:recruitee.com
+greenhouse.io
+bamboohr.com
