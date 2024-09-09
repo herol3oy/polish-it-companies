@@ -131,116 +131,49 @@ https://careers.cognizant.com/emea-en/jobs/?keyword=&location=Poland&lat=&lng=&c
 
 https://www.coherentsolutions.com/careers
 
-116. Coinchange
-     https://coinchange.io
-     alex.b@coinchange.io
+https://kahoot.com/open-positions/
 
-117. Vialto
-     https://vialto.com
-     jakub.skrzypek@vialto.com
+https://www.coinchange.io/careers
 
-118. Comarch
-     https://comarch.com
-     anastasiia.kravets@comarch.com
 
-119. Compatibl
-     https://compatibl.com
-     jobs@compatibl.com
+https://careers.vialto.com/careers?location=poland&pid=563602797133153&domain=vialto.com&sort_by=relevance&triggerGoButton=false
 
-120. Computools
-     https://computools.com
-     hr@computools.com
+https://kariera.comarch.pl/praca/
 
-121. Incubator Poland
-     https://incubator-poland.com
-     jpiotrowski@incubator-poland.com
+https://www.compatibl.com/careers/
 
-122. Consileon
-     https://consileon.pl
-     praca@consileon.pl
+https://computools.com/careers/
 
-123. Constant Robotics
-     https://constantrobotics.com
-     support@constantrobotics.com
 
-124. Contexxt
-     https://contexxt.com
-     S@contexxt.com
+https://consileon.pl/kariera/
 
-125. Coople
-     https://coople.com
-     katarzyna.kulik@coople.com
 
-126. Coral Team
-     https://coral.team
-     alexm@coral.team
+https://contexxt.com/vacancies/
 
-127. Core Partners
-     https://corepartners.com
-     cjanus@corepartners.com
 
-128. Craftware
-     https://craftware.pl
-     amajewska@craftware.biz
+https://www.coral.team/Team
 
-129. Create IT
-     https://createit.com
-     i.kwiatkowska@createit.com
+https://craftware.pl/kariera/#jobOffers
 
-130. Curiosum
-     https://curiosum.com
-     mikolaj.musiol@curiosum.com
+https://www.createit.com/careers/
 
-131. Customer Times
-     https://customertimes.com
-     aleksander.drozd@customertimes.com
+https://curiosum.com/careers
 
-132. Dvash
-     https://dvash.pl
-     Angelina.zaretskaya@dvash.pl
+https://customertimes.com/careers/
 
-133. CVT Services
-     https://cvt.services
-     az@cvt.services
+https://cvt.services/careers
 
-134. Cybervision Tech
-     https://cybervisiontech.com
-     mrotuska@cybervisiontech.com
+https://www.cybervisiontech.com/careers
 
-135. Cyclad
-     https://cyclad.eu
-     anna.kosinska@cyclad.pl
+https://www.cyclad.pl/career/job-offers/
 
-136. D-Factor
-     https://d-factor.pro
-     hr@d-factor.pro
+https://www.dataart.team/vacancies
 
-137. Dark Passenger
-     https://darkpassenger.eu
-     pawel.kuleta@darkpassenger.eu
+https://careers.dazn.com/jobs/?search=&dept=&team=&location=Katowice%2C+Poland&schedule=&pagesize=20#results
 
-138. DataArt
-     https://dataart.com
-     gkremenetsky@dataart.com
-     hr-lublin@dataart.com
-     support.wro@dataart.com
+https://jobs.lever.co/dazn/?location=Katowice%2C%20Poland
 
-139. Datamola
-     https://datamola.com
-     mzarenok@datamola.com
-
-140. Data Sky
-     https://data-sky.net
-     info@data-sky.net
-
-141. DAZN
-     https://dazn.com
-     agata.zdrojewicz@dazn.com
-     dominika.kocwin@dazn.com
-
-142. deepsense.ai
-     https://deepsense.ai
-     renata.maszczykowska@deepsense.ai
+https://deepsense.ai/careers/
 
 143. Deloitte CE
      https://deloitte.com
