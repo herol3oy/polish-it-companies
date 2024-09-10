@@ -40,13 +40,13 @@ https://akvelon.com/careers/
 
 https://akveo.com/careers
 
-https://www.allstarsit.com/careers/jobs?job-location-categories=poland#open-positions
+https://allstarsit.com/careers/jobs?job-location-categories=poland#open-positions
 
-https://www.alter-solutions.com/job-openings-alter-solutions
+https://alter-solutions.com/job-openings-alter-solutions
 
-https://www.altoros.com/about/careers#polandTab
+https://altoros.com/about/careers#polandTab
 
-https://www.anegis.com/go-for-more#jobs
+https://anegis.com/go-for-more#jobs
 
 https://people.andersenlab.com/vacancies
 
@@ -76,13 +76,13 @@ https://auroracreation.pl/kariera/
 
 https://b2bnetwork.traffit.com/career/
 
-https://www.backbase.com/careers/jobs?office=krakow&department=all
+https://backbase.com/careers/jobs?office=krakow&department=all
 
 https://jobs.zendesk.com/us/en/search-results?qcountry=Poland
 
 https://talent.bayer.com/careers?query=Front%20End&location=poland&pid=562949961289073&job%20type=professional&domain=bayer.com&sort_by=relevance
 
-https://www.bec.dk/poland/
+https://bec.dk/poland/
 
 https://behighload.com/career
 
@@ -94,19 +94,19 @@ https://bolt.eu/en/careers/positions/?location=Poland|Warsaw%2C%20Poland|Szczeci
 
 https://box.eightfold.ai/careers?location=Poland%20Remote&pid=584137924277&domain=box.com&sort_by=relevance&triggerGoButton=false
 
-https://www.getbraavo.com/careers/
+https://getbraavo.com/careers/
 
 https://brains-and-beards.notion.site/Job-offers-at-Brains-Beards-1b21951978bd4a11b9b03b5fbf0021c1
 
 https://cadence.wd1.myworkdayjobs.com/External_Careers?Location_Country=131d5ac7e3ee4d7b962bdc96e498e412
 
-https://www.calamari.io/career
+https://calamari.io/career
 
-https://www.zeiss.com/corporate/int/careers/job-openings-and-applications.html?jsl=28001001
+https://zeiss.com/corporate/int/careers/job-openings-and-applications.html?jsl=28001001
 
 https://jobs.lever.co/capital?location=Warsaw%2C%20Mazowieckie%2C%20Poland
 
-https://www.cdprojektred.com/en/jobs?studio=poland#engineering
+https://cdprojektred.com/en/jobs?studio=poland#engineering
 
 https://careers.checkpoint.com/?q=&module=cpcareers&a=search&fa%5B%5D=country_ss%3APoland&sort=
 
@@ -117,7 +117,7 @@ https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B215429%5D&21178_format=6020&lis
 
 https://civitta.com/career/?career-country=poland
 
-https://www.cleverdevsoftware.com/careers
+https://cleverdevsoftware.com/careers
 
 
 https://synder.com/careers/
@@ -125,22 +125,22 @@ https://synder.com/careers/
 https://codeinspiration.pro/careers
 
 
-https://www.cogniteq.com/careers-at-cogniteq
+https://cogniteq.com/careers-at-cogniteq
 
 https://careers.cognizant.com/emea-en/jobs/?keyword=&location=Poland&lat=&lng=&cname=Poland&ccode=PL&origin=global
 
-https://www.coherentsolutions.com/careers
+https://coherentsolutions.com/careers
 
 https://kahoot.com/open-positions/
 
-https://www.coinchange.io/careers
+https://coinchange.io/careers
 
 
 https://careers.vialto.com/careers?location=poland&pid=563602797133153&domain=vialto.com&sort_by=relevance&triggerGoButton=false
 
 https://kariera.comarch.pl/praca/
 
-https://www.compatibl.com/careers/
+https://compatibl.com/careers/
 
 https://computools.com/careers/
 
@@ -151,11 +151,11 @@ https://consileon.pl/kariera/
 https://contexxt.com/vacancies/
 
 
-https://www.coral.team/Team
+https://coral.team/Team
 
 https://craftware.pl/kariera/#jobOffers
 
-https://www.createit.com/careers/
+https://createit.com/careers/
 
 https://curiosum.com/careers
 
@@ -163,11 +163,11 @@ https://customertimes.com/careers/
 
 https://cvt.services/careers
 
-https://www.cybervisiontech.com/careers
+https://cybervisiontech.com/careers
 
-https://www.cyclad.pl/career/job-offers/
+https://cyclad.pl/career/job-offers/
 
-https://www.dataart.team/vacancies
+https://dataart.team/vacancies
 
 https://careers.dazn.com/jobs/?search=&dept=&team=&location=Katowice%2C+Poland&schedule=&pagesize=20#results
 
@@ -461,7 +461,7 @@ https://deepsense.ai/careers/
      victoria.glusskaya@helmes.com
 
 213. Hitachi Energy
-     https://www.hitachienergy.com/careers/open-jobs
+     https://hitachienergy.com/careers/open-jobs
      aneta.wawrzyniak@hitachienergy.com
 
 214. Humanit Group
