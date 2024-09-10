@@ -296,121 +296,41 @@ https://sniconsulting.net/job-list/?sk=&module_group=all&location=Poland&radio=a
 
 https://careers.snowflake.com/us/en/search-results?qcountry=Poland
 
-272. Softarex
-     https://softarex.com
-     a.maidybura@softarex.com
+https://softarex.com/career/job-openings/
 
-273. SoftForce
-     https://softforce.com
-     softforcepl@gmail.com
+https://sollers.eu/career?_sft_careers_offices=bialystok,gdansk,krakow,lublin,lodz,poznan,szczecin,warsaw,wroclaw
 
-274. SoftKrama
-     https://softkrama.com
-     hello@softkrama.com
+https://solveq.io/careers
 
-275. SoftNetix
-     https://softnetix.io/
-     info@softnetix.io
+https://sonalake.com/careers/#jobs
 
-276. Softteco
-     https://softteco.pl
-     v.syrova@softteco.com
+https://speedapp.traffit.com/career/
 
-277. Sollers
-     https://sollers.eu
-     job@sollers.eu
+https://apply.workable.com/sperasoft/#jobs
 
-278. Solve IT
-     https://solveit.dev/
-     info@solveit.dev
+https://spiralscout.bamboohr.com/careers
 
-279. SolveQ
-     https://solveq.io/careers
-     marcin.kulawik@solveq.io
+https://spyro-soft.com/career?area=all&skills=all&location=poland&experience=all
 
-280. Sonalake
-     https://sonalake.com
-     bartosz.jerzy@sonalake.com
+https://star.global/careers/?location=31
 
-281. Soname
-     https://soname.de
-     info@soname.de
+https://stellantis-kariera.pl/kariera/oferty-pracy-i-stazy/
 
-282. SpeedApp
-     https://speedapp.pl
-     piotr@speedapp.pl
+https://stratslab.traffit.com/career/
 
-283. Sperasoft
-     https://sperasoft.pl/career/
-     hr.jobs@sperasoft.com
+https://swag42.com/careers
 
-284. SpiralScout
-     https://spiralscout.com
-     spiralscoutszoo@gmail.com
+https://www.syberry.com/careers/
 
-285. Spyro-Soft
-     https://spyro-soft.com/career/
-     aor@spyro-soft.com
+https://jetbi.com/vacancy
 
-286. Square One Resources
-     https://squareoneresources.com
-     plinfo@squareoneresources.com
+https://business.tango.me/careers
 
-287. Star Global
-     https://star.global
-     peoplepoland@star.global
+https://tantusdata.com/careers/
 
-288. Stellantis
-     https://stellantis.com
-     anna.maksymowicz@stellantis.com
+https://teladoc.wd1.myworkdayjobs.com/teladochealth_is_hiring?locationCountry=131d5ac7e3ee4d7b962bdc96e498e412
 
-289. Stera Global
-     https://stera.global/
-     contact@stera.global
-
-290. Stratslab
-     https://stratslab.com
-     magdalena.klusek@stratslab.com
-
-291. SVAPS
-     https://svaps.com
-     eugene.markovskyi@svaps.com
-
-292. Swag42
-     https://swag42.com
-     office@swag42.com
-
-293. Syberry
-     https://syberry.com
-     contact@syberry.com
-
-294. Symmetrical AI
-     https://symmetrical.ai
-     agnieszka.tarasiewicz@symmetrical.ai
-
-295. SystemBox
-     https://systembox.pl
-     kontakt@systembox.pl
-
-296. Jetbi
-     https://jetbi.com
-     alexandr.zhuk@jetbi.com
-
-297. Tango
-     https://tango.me
-     mskweres@tango.me
-
-298. Tantus Data
-     https://tantusdata.com
-     jobs@tantusdata.com
-
-299. Teladoc Health
-     https://teladochealth.com
-     mmoisseenko@teladochealth.com
-
-300. Teacode
-     https://teacode.io/career
-     jobs@teacode.io
+https://teacode.io/career
 
 301. Tealium
      https://tealium.com
