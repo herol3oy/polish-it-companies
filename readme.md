@@ -228,34 +228,11 @@ https://fortvision.com/careers.html#careers-position
 
 https://www.freeportmetrics.com/careers
 
-201. Twoj Startup
-     https://twojstartup.pl/
-     info@twojstartup.pl
+https://careers.smartrecruiters.com/Gcore
 
+https://gloriumtech.com/career/?job__location_spec=poland
 
-202. Unity Hub
-     https://unityhub.pl
-     contact@unityhub.pl
-
-203. Fursoller
-     https://fursoller.com
-     info@fursoller.com
-
-204. Gcore
-     https://gcore.com
-     julia.krawczyk@gcore.com
-
-205. Globant
-     https://globant.com
-     patricio.ramirez@globant.com
-
-206. Glorium Tech
-     https://gloriumtech.com
-     hr@gloriumtech.com
-
-208. Gosolve
-     https://gosolve.io
-     careers@gosolve.io
+https://gosolve.io/offers/
 
 209. GPSolutions
      https://gpsolutions.com
