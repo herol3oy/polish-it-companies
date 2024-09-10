@@ -234,257 +234,67 @@ https://gloriumtech.com/career/?job__location_spec=poland
 
 https://gosolve.io/offers/
 
-209. GPSolutions
-     https://gpsolutions.com
-     I.Davydzik@gpsolutions.com
+https://careers.gpsolutions.com/
 
-210. GigaCloud
-     https://gigacloud.eu
-     maksym.kurochko@gigacloud.eu
+https://www.helmes.com/career/
 
-211. Headway Solutions
-     https://headway-solutions.net
-     jobs@headway-solutions.net
+https://www.hitachienergy.com/careers/open-jobs?filterable1573558966-location=Poland
 
-212. Helmes
-     https://helmes.com
-     victoria.glusskaya@helmes.com
+https://jobs.innovecs.com/vacancies/
 
-213. Hitachi Energy
-     https://hitachienergy.com/careers/open-jobs
-     aneta.wawrzyniak@hitachienergy.com
+https://innowise.com/careers/
 
-214. Humanit Group
-     https://humanit.group
-     miko@humanit.group
+https://www.instinctools.eu/vacancies/
 
-215. Infoplus
-     https://infoplusltd.co.uk
-     anu@infoplusltd.co.uk
+https://www.intergiro.com/careers
 
-216. Innovecs
-     https://innovecs.com
-     natasha.vanvliet@innovecs.com
+https://jobs.lever.co/intive?location=Poland
 
-217. Innowise Group
-     https://innowise-group.com
-     herman.marozau@innowise-group.com
+https://itrexgroup.com/jobs/vacancies/#jobs
 
-218. Instinctools
-     https://instinctools.com/career/
-     yury@instinctools.pl
+https://www.kaseya.com/careers/jobs/krakow/
 
-219. Intergiro
-     https://intergiro.com
-     sylwia.wolska@intergiro.com
+https://kariera.komputronik.com/oferty-pracy
 
-220. Intive
-     https://intive.com/careers
-     maria.gorodnik@intive.com
+https://careers.lightpointglobal.com/
 
-221. IP Partner
-     https://ippartner.eu
-     office@ippartner.eu
+https://mediacube.io/en-PL/vacancies?location=Poland
 
-222. ITDS
-     https://itds.pl/it-jobs/
-     hr@itds.pl
+https://careers.msg-global.com/search/?createNewAlert=false&q=&locationsearch=poland&optionsFacetsDD_country=&optionsFacetsDD_location=&optionsFacetsDD_customfield1=
 
-223. Itrex Group
-     https://itrexgroup.com
-     tatyana.makeyeva@itrexgroup.com
+https://www.objectstyle.com/careers
 
-224. Kaseya
-     https://kaseya.com
-     pbh@kaseya.com
+https://careers.smartrecruiters.com/PeopleCanFly
 
-225. Klabater
-     https://klabater.com/oferty-pracy/
-     praca@klabater.com
+https://company.plarium.com/en/career/?f=52-offices
 
-226. Komputronik
-     https://komputronik.pl
-     rekrutacje@komputronik.pl
+https://polcode.com/careers/#open-roles
 
-227. Lambda Factor
-     https://lambda-factor.com
-     poland@lambda-factor.com
+https://www.precisely.com/careers-and-culture/international-jobs
 
-228. Lightpoint Global
-     https://lightpointglobal.com/
-     hr@lovata.com
+https://proffiz.com/career-join-us/#JOBS
 
-229. Luware
-     https://luware.com/en/jobs/
-     afralou@luware.com
+https://www.revolut.com/en-PL/careers/?city=Poland+-+Remote
 
-230. Mdevelopers
-     https://mdevelopers.com/careers/
-     milo@mdevelopers.com
-
-231. Mediacube
-     https://mediacube.network
-     job@mediacube.network
-
-232. Memposit
-     https://memposit.com
-     alexander.zaikov@memposit.com
-
-233. Miratech Group
-     https://miratechgroup.com
-     travel@miratechgroup.com
-
-234. Mitrix
-     https://mitrix.io
-     dblyshchyk@mitrix.io
-
-235. Mosaic
-     https://mosaic.co
-     People@mosaic.co
-
-236. Nexontis
-     https://nexontis.com
-     HR.Poland@nexontis.com
-
-237. Nikolaus Games
-     https://nikolausgames.com
-     biuro@nikolausgames.com
-
-238. Nordbay
-     https://nordbay.com
-     hello@nordbay.com
-
-239. ObjectStyle
-     https://objectstyle.com
-     jobs@objectstyle.com
-
-240. Onlinesolutions
-     https://onlinesolutions.pl
-     hello@onthespotdev.com
-
-241. Palta
-     https://palta.com/join
-     polandhub.admin@palta.com
-
-242. People Can Fly
-     https://peoplecanfly.com
-     recruitment@peoplecanfly.com
-
-243. Plarium
-     https://plarium.com
-     info.pl@plarium.com
-
-244. Polcode
-     https://polcode.com/careers/#open-roles
-     praca@polcode.com
-
-245. Power3
-     https://power3.biz
-     shakirov@power3.biz
-
-246. Precisely
-     https://precisely.com
-     Zuzanna.Biel@precisely.com
-
-247. Proffiz
-     https://proffiz.com/career-join-us/
-     mskrobala@proffiz.com
-
-248. Qolabra
-     https://qolabra.eu
-     contact@qolabra.eu
-
-249. Revolut
-     https://revolut.com/en-PL/careers/
-     beata.dziedzic@revolut.com
-
-250. Rgameswest
-     https://rgameswest.com/get-started
-     as@rgameswest.com
-
-251. Routine Automation
-     https://routine-automation.com
-     pavel@routine-automation.com
+https://routine-automation.com/career-in-ra/#open-block
      
-252. Moon Active
-     https://moonactive.com
-     monika.si@moonactive.com
+https://www.moonactive.com/careers/?loc=warsaw,-poland&dept=r-d
 
-253. Sam Solutions
-     https://sam-solutions.com
-     y.aboryna@sam-solutions.com
+https://santander.wd3.myworkdayjobs.com/pl-PL/SantanderCareers?locationCountry=131d5ac7e3ee4d7b962bdc96e498e412
 
-254. Grupo Santander
-     https://gruposantander.com
-     radoslaw.krasowski@gruposantander.com
+https://saygames.by/jobs/
 
-255. Satellite Innovations
-     https://satelliteinnovations.io
-     hello@satelliteinnovations.io
+https://www.scnsoft.com/about/careers
 
-256. SayGames
-     https://saygames.by
-     anna.zhuk@saygames.by
+https://www.senamasoft.com/offers
 
-257. Scand
-     https://scand.com
-     poland@scand.com
+https://career.sigma.software/what-we-offer/vacancies/?direction=&seniority=&location=warsaw&search=&partnership=
 
-258. SCNSoft
-     https://scnsoft.com
-     job@scnsoft.com
+https://pwrteams.com/careers?location=poland#current-jobs-offer
 
-259. Scompler
-     https://scompler.com
-     careers@scompler.com
+https://sniconsulting.net/job-list/?sk=&module_group=all&location=Poland&radio=all&ct=all
 
-260. Seedilon
-     https://seedilon.com
-     aspram.sargsyan@seedilon.com
-
-261. Semeniakalaw
-     https://semeniakalaw.pl
-     welcome@semeniakalaw.pl
-
-262. SenamaSoft
-     https://senamasoft.com
-     senamasoft@gmail.com
-
-263. Seqred
-     https://seqred.pl/en/career/
-     katarzyna.sobotka@showpad.com
-
-264. Sigma Software
-     https://sigma.software
-     tetiana.skalska@sigma.software
-
-265. PWR Teams
-     https://pwrteams.com
-     anna.lasota@pwrteams.com
-
-266. Skybuffer
-     https://skybuffer.com
-     hi@skybuffer.com
-
-267. Smart Force
-     https://smart-force.pl
-     am@smart-force.pl
-
-268. Sotrender
-     https://sotrender.com/pl/
-     job@sotrender.com
-
-269. Apifonica
-     https://apifonica.com
-     mjankiewicz@apifonica.com
-
-270. Sniconsulting
-     https://sniconsulting.net
-     Kontakt@sniconsulting.net
-
-271. Snowflake
-     https://snowflake.com
-     dorota.jaworska@snowflake.com
+https://careers.snowflake.com/us/en/search-results?qcountry=Poland
 
 272. Softarex
      https://softarex.com
