@@ -110,7 +110,6 @@ https://cdprojektred.com/en/jobs?studio=poland#engineering
 
 https://careers.checkpoint.com/?q=&module=cpcareers&a=search&fa%5B%5D=country_ss%3APoland&sort=
 
-
 https://jobs.ciklum.com/jobs/?country=poland&location=&category=&working_type=Office,Remote,Hybrid
 
 https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B215429%5D&21178_format=6020&listFilterMode=1
@@ -215,61 +214,23 @@ https://www.fairmarkit.com/careers
 
 https://www.fieldbee.com/careers
 
-189. NordHR
-     https://nordhr.pl
-     beata.stramska@nordhr.pl
+https://nordhr.pl/job-offers/
 
-190. PNFin
-     https://pnfin.tech
-     e.godlewski@pnfin.tech
+https://fireart.studio/careers/#vacancies
 
-191. Fireart
-     https://fireart-d.com
-     damian@fireart-d.com
+https://fivedottwelve.com/careers/
 
-192. First Line Software
-     https://careers.firstlinesoftware.com/en/
-     jakub.mamla@firstlinesoftware.com
+https://flint-international.com/?s=&cat=257
 
-193. Five Dot Twelve
-     https://fivedottwelve.com
-     office@fivedottwelve.com
+https://flyingwildhog.com/jobs/
 
-194. Flintmail
-     https://flintmail.com
-     iwan.babycz@flintmail.com
+https://fortvision.com/careers.html#careers-position
 
-195. Flying Wild Hog
-     https://flyingwildhog.com
-     hr@flyingwildhog.com
-
-196. Flying Whale Games
-     https://flyingwhalegames.com
-     info@flyingwhalegames.com
-
-197. FoodSoul
-     https://foodsoul.pro
-     hr@foodsoul.pro
-
-198. Forte Group
-     https://fortvision.com/careers.html
-     maura.dunal@fortegrp.com
-
-199. FragLab
-     https://fraglab.com
-     Alona.D@fraglab.com
-
-200. Freeport Metrics
-     https://freeportmetrics.com
-     careers@freeportmetrics.com
+https://www.freeportmetrics.com/careers
 
 201. Twoj Startup
      https://twojstartup.pl/
      info@twojstartup.pl
-
-
-
-
 
 
 202. Unity Hub
