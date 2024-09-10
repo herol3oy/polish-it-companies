@@ -181,163 +181,39 @@ https://careers.demant.com/search/?createNewAlert=false&q=&optionsFacetsDD_custo
 
 https://careers.develocraft.com/careers
 
-
 https://jobs.lever.co/capital
 
 https://digitech7.com/open_positions
 
+https://careers.dotdigital.com/jobs
 
-151. DKS Group
-     https://dksgroup.eu
-     mail@dksgroup.eu
+https://careers.dynatrace.com/jobs/?countries=Poland
 
-152. Dointegrate
-     https://dointegrate.com
-     aleh.b@dointegrate.com
+https://easybrain.com/careers
 
-153. Dotdigital
-     https://dotdigital.com
-     recruiters@dotdigital.com
+https://www.edvantis.com/careers/
 
-154. Draivn
-     https://drawdistance.dev/jobs/
-     jobs@drawdistance.dev
+https://efisco.net/careers/
 
-155. DreamSoft
-     https://dreamsoft-pl.eu
-     info@dreamsoft-pl.eu
+https://careers.eisgroup.com/location?division_id=%5B188%5D
 
-156. DreamTeam Apps
-     https://dreamteam-apps.pl
-     ceo@dreamteam-apps.pl
+https://careers.eleks.com/vacancies/?location=31&technology=
 
-157. DroneHub
-     https://dronehub.ai
-     careers@dronehub.ai
+https://www.elinext.com/careers/?locations=761
 
-158. Dronex
-     https://dronex.com
-     vk@dronex.com
+https://careers.epam-poland.pl/careers/job-listings?country=Poland
 
-159. Dedicated Teams
-     https://dedicated-teams.com
-     aliaksei@dedicated-teams.com
+https://careers.equinix.com/jobs/search?page=1&country_codes%5B%5D=PL&query=
 
-160. DVash
-     https://dvash.pl
-     inbox@dvash.pl
+https://traffit.traffit.com/career/
 
-161. Dyna-Soft
-     https://dyna-soft.com
-     y.kruk@dyna-soft.com
+https://www.experis.pl/pl/oferty-pracy-it
 
-162. Dynatrace
-     https://dynatrace.com
-     people.operations.poland@dynatrace.com
+https://www.banuba.com/careers
 
-163. Dynevo
-     https://dynevo.org
-     andrei@dynevo.org
+https://www.fairmarkit.com/careers
 
-164. E100IT
-     https://e100it.pl
-     y.khaietska@e100it.pl
-
-165. Easybrain
-     https://easybrain.com
-     hr@easybrain.com
-
-166. Educat
-     https://educat.study
-     dmitrii.halyniak@gmail.com
-
-167. Edvantis
-     https://edvantis.com
-     nazariy.hudz@edvantis.com
-
-168. EffectiveSoft
-     https://effectivesoft.pl
-     HR@effectivesoft.pl
-
-169. Efisco
-     https://efisco.net/category/jobs/
-     yash@efisco.net
-
-170. Egorov Agency
-     https://egorovagency.com
-     ee@egorovagency.com
-
-171. EIS Group
-     https://eisgroup.com
-     lbekish@eisgroup.com
-
-172. EJSak
-     https://ejsak.pl
-     sasza@ejsak.pl
-
-173. ElasticSoft
-     https://elasticsoft.io
-     info@elasticsoft.io
-
-174. Eleks
-     https://eleks.com
-     job@eleks.com
-
-175. Elinext
-     https://elinext.com
-     elinextsofttech.biuro@gmail.com
-
-176. English in Games
-     https://englishingames.com
-     hr@englishingames.com
-
-177. Enway
-     https://enway.com
-     info@enway.com
-
-178. EPAM
-     https://careers.epam-poland.pl/careers
-     careers_poland@epam.com
-
-179. Equinix
-     https://careers.equinix.com
-     anna.derewlana@eu.equinix.com
-
-180. Eurovensys
-     https://eurovensys.eu
-     info@eurovensys.eu
-
-181. Verama
-     https://verama.com/pl/job-requests
-     sylwia.burek@codete.com
-
-182. ExecOn
-     https://traffit.com
-     wioletta.plachta@execon.pl
-
-183. Experis
-     https://experis.pl/pl/oferty-pracy-it
-     adam.jakubowski@pl.experis.com
-
-184. FB
-     https://fb.com
-     immigration@fb.com
-
-185. Banuba
-     https://banuba.com
-     alexander.poplavsky@banuba.com
-
-186. Fairmarkit
-     https://fairmarkit.com
-     careers_pl@fairmarkit.com
-
-187. Fieldbee
-     https://fieldbee.com
-     oleksiy.dovhopolyy@fieldbee.com
-
-188. Findev Global
-     https://findevglobal.com
-     hr@findevglobal.com
+https://www.fieldbee.com/careers
 
 189. NordHR
      https://nordhr.pl
