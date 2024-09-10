@@ -175,37 +175,17 @@ https://jobs.lever.co/dazn/?location=Katowice%2C%20Poland
 
 https://deepsense.ai/careers/
 
-143. Deloitte CE
-     https://deloitte.com
-     ceplrekrutacja@deloittece.com
+https://apply.deloittece.com/pl_PL/careers/SearchJobs/?2670=%5B323910%2C323911%2C323914%2C323915%2C323917%2C323918%2C323919%2C366698%2C323922%5D&2670_format=2408&522=%5B2439%5D&522_format=1484&523=%5B5515%5D&523_format=1482&listFilterMode=1&jobRecordsPerPage=10&jobOffset=0&_ga=2.13930743.1394180794.1699259330-1088817328.1689060877
 
-144. Delve Deeper
-     https://delvdeeper.com
-     justyna.bancerek@delvedeeper.com
+https://careers.demant.com/search/?createNewAlert=false&q=&optionsFacetsDD_customfield3=&optionsFacetsDD_customfield4=Poland&optionsFacetsDD_customfield5=
 
-145. Demant
-     https://demant.com
-     rekrutacja@demant.com
+https://careers.develocraft.com/careers
 
-146. Develocraft
-     https://develocraft.com
-     kamil.paraf
 
-147. DevRun Tech
-     https://devrun.tech
-     hq@devrun.tech
+https://jobs.lever.co/capital
 
-148. Capital
-     https://capital.com
-     monika.rumianek@capital.com
+https://digitech7.com/open_positions
 
-149. DigiTech
-     https://digitech7.com/open_positions
-     indominus@dinobitsoft.com
-
-150. Direct
-     https://directpl.com
-     praca@directpl.com
 
 151. DKS Group
      https://dksgroup.eu
@@ -435,10 +415,6 @@ https://deepsense.ai/careers/
 206. Glorium Tech
      https://gloriumtech.com
      hr@gloriumtech.com
-
-207. Google
-     https://google.com
-     egrzelak@google.com
 
 208. Gosolve
      https://gosolve.io
